@@ -1,4 +1,4 @@
-# Resolution-Hardware-W1
+# Resolution-Hardware W1
 This is an RC Circuit built during week 1 of Resolution-Hardware!
 
 The circuit includes 5 LED's that light up in a pattern. Each resistor attached to each LED has a different value, which allows the current to reach the LED at different speeds. This causes the lights to turn on at different times. 
